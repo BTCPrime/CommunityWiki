@@ -5,11 +5,13 @@
 Welcome to the Primecoin & Bitcoin Prime Community Wiki. 
 
 
-### Primecoin Resources
+#### Primecoin Resources
 
 
-#### Documentatation / Technical 
+##### Documentatation / Technical 
 
 
 [Building an XPM-NG-Core Testnet Node](documentation/building-primecoin-ng-core)
 
+
+#### BitcoinPrime Resources
