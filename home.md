@@ -8,5 +8,5 @@ Welcome to the Primecoin & Bitcoin Prime Community Wiki.
 
 #### Documentatation / Technical 
 
-[Building an XPM-NG-Core Testnet Node](building-primecoin-ng-core)
+[Building an XPM-NG-Core Testnet Node](documentation/building-primecoin-ng-core)
 
