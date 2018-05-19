@@ -3,11 +3,11 @@
 
 # Building an XPM-NG-Core Testnet Node
 
-
 Ubuntu 18.04 3gb RAM
---------------------
 
-### Install Dependancies; 
+
+### Install Dependancies
+
 
 ```
 sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils python3
@@ -18,14 +18,15 @@ sudo apt-get install libboost-system-dev libboost-filesystem-dev libboost-chrono
 ```
 
 
-### Need Old LibSSL; 
+### Need Old LibSSL
+
 ```
 
 sudo apt-get install libssl1.0-dev
 
 ```
 
-### Clone the Repo; 
+### Clone the Repo
 
 ```
 
