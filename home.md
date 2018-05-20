@@ -5,13 +5,13 @@
 * [Homepage BitcoinPrime ](https://www.bitcoinprime.org)
 * [Homepage Primecommunity](https://www.primecommunity.org)
 # BitcoinPrime Resources
-See the below links for resources regarding BitcoinPrime
+See the below links for resources regarding **BitcoinPrime**
 
 > Comming soon
 {.is-info}
 
 # Primecoin Resources
-See the below links for resources regarding PrimeCoin
+See the below links for resources regarding **PrimeCoin**
 
 ## Documentation / Technical 
 * [Building an XPM-NG-Core Testnet Node](documentation/building-primecoin-ng-core)
