@@ -14,4 +14,4 @@ See the below links for resources regarding **PrimeCoin**
 ## Documentation / Technical 
 * [Building an XPM-NG-Core Testnet Node](primecoin/documentation/building-primecoin-ng-core)
 ## World Records
-* [Current World Records](primecoin/world-records/current-world-records)
+* [Current World Records](world-records/current-world-records)
