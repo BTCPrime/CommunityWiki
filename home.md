@@ -10,10 +10,9 @@ Welcome to the Primecoin & Bitcoin Prime Community Wiki.
 See the below links for resources regarding PrimeCoin
 
 
-#### Documentatation / Technical 
-
-
+#### Documentation / Technical 
 [Building an XPM-NG-Core Testnet Node](documentation/building-primecoin-ng-core)
 
+#### World Records
 
 ### BitcoinPrime Resources
