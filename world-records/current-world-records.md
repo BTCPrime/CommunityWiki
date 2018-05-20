@@ -29,7 +29,7 @@ Bi-Twin | 10 | 2014-04-07 | 479357 | 138
   |  |  |  |  | 
 Cunningham2 | 9 | 2013-07-23 | 79349 | 167
 ## Primecoin World Records Milestones
-Date | Achievement | Block |  | Digit | Type
+Date | Achievement | Block | Prime | Digit | Type
  :---:| --- |:---:|:---:| ---
 2013-07-07 | **Launch of Primecoin Network** | 1
 2013-07-08 | Cunningham2 | 9-primes | 2044 | 131
