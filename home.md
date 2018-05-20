@@ -8,6 +8,7 @@ See the below links for resources regarding BitcoinPrime
 
 > Comming soon
 {.is-info}
+
 # Primecoin Resources
 See the below links for resources regarding PrimeCoin
 
