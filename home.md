@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Welcome to the Primecoin & Bitcoin Prime Community Wiki.   -->
 
 # Links
-* [BitcoinPrime Homepage](https://www.bitcoinprime.org/ "BitcoinPrime's Homepage"){:target="_blank"}
+* [BitcoinPrime Homepage](https://www.bitcoinprime.org/ "BitcoinPrime's Homepage")
 # BitcoinPrime Resources
 See the below links for resources regarding BitcoinPrime
 
