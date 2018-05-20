@@ -49,4 +49,9 @@ Date | Achievement | Block | Prime | Digit
 2014-01-20 | Cunningham1 |  13-primes | 368051 | 107
 2014-05-16 | Simultaneous (Cunningham2) | 14-primes | 547276 | 100
 2014-05-16 | Cunningham2 | 14-primes | 547276 | 100
+## Resources
+* [Largest Known Simultaneous Primes](http://primerecords.dk/simultprime.htm) maintained by Jens Kruse Andersen
+* [Cunningham Chain Records](http://primerecords.dk/Cunningham_Chain_records.htm) maintained by Dirk Augustin
+* [Bi-Twin Chain Records](http://www.primenumbers.net/Henri/fr-us/BiTwinRec.htm) maintained by Henri Lifchitz
+* [https://bitcointalk.org/index.php?topic=253409.0]
  
