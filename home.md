@@ -1,11 +1,7 @@
 <!-- TITLE: Home -->
 <!-- SUBTITLE: Welcome to the Primecoin & Bitcoin Prime Community Wiki.   -->
 
-# Welcome
-Welcome to the Primecoin & Bitcoin Prime Community Wiki. 
-
-
-### Primecoin Resources
+# Primecoin Resources
 
 See the below links for resources regarding PrimeCoin
 
@@ -15,4 +11,4 @@ See the below links for resources regarding PrimeCoin
 
 #### World Records
 
-### BitcoinPrime Resources
+# BitcoinPrime Resources
