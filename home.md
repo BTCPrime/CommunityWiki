@@ -3,7 +3,7 @@
 
 # Quick Links
 * [Homepage BitcoinPrime ](https://www.bitcoinprime.org)
-* [Homepage Primecommunity](https://www.primecommunity.org)
+* [Homepage Primecommunity](https://www.primecommunity.org/home)
 
 # BitcoinPrime Resources
 See the below links for resources regarding BitcoinPrime
