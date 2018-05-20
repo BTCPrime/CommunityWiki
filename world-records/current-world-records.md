@@ -29,24 +29,24 @@ Bi-Twin | 10 | 2014-04-07 | 479357 | 138
   |  |  |  |  | 
 Cunningham2 | 9 | 2013-07-23 | 79349 | 167
 ## Primecoin World Records Milestones
-Date | Achievement | Block | Prime | Digit | Type
- :---:| --- |:---:|:---:|:---:| ---
+Date | Achievement | Block | Prime | Digit
+ :---:| --- |:---:|:---:|:---:
 2013-07-07 | **Launch of Primecoin Network** | 1
 2013-07-08 | Cunningham2 | 9-primes | 2044 | 131
 2013-07-13 | Cunningham1 | 10-primes | 25180 | 100
 2013-07-13 | Bi-Twin | 10-primes | 28769 | 100
 2013-07-14 | Cunningham2 | 11-primes | 38452 | 91
-2013-07-14 | Simultaneous | 10-primes | 42915 | 113 | Cunningham1
+2013-07-14 | Simultaneous (Cunningham1) | 10-primes | 42915 | 113
 2013-07-16 | Cunningham1 | 11-primes | 50357 | 93
 2013-07-17 | Cunningham2 | 10-primes | 56040 | 111
-2013-07-20 | Simultaneous |  11-primes | 71765 | 108 | Cunningham2
-2013-07-21 | Simultaneous | 12-primes | 74722 | 97 | Cunningham2
+2013-07-20 | Simultaneous (Cunningham2) |  11-primes | 71765 | 108
+2013-07-21 | Simultaneous (Cunningham2) | 12-primes | 74722 | 97
 2013-07-21 | Cunningham2 |  12-primes | 74722 | 97
 2013-08-07 | Bi-Twin | 12-primes | 104102 | 97 
 2013-08-25 | Cunningham1 |  12-primes | 133627 | 97
-2013-09-10 | Simultaneous | 13-primes | 159217 | 94 | Cunningham2
+2013-09-10 | Simultaneous (Cunningham2) | 13-primes | 159217 | 94 
 2013-09-10 | Cunningham2 |  13-primes | 159217 | 94
 2014-01-20 | Cunningham1 |  13-primes | 368051 | 107
-2014-05-16 | Simultaneous | 14-primes | 547276 | 100 | Cunningham2
+2014-05-16 | Simultaneous (Cunningham2) | 14-primes | 547276 | 100
 2014-05-16 | Cunningham2 | 14-primes | 547276 | 100
  
