@@ -7,13 +7,11 @@
 # BitcoinPrime Resources
 See the below links for resources regarding **BitcoinPrime**
 
-> Comming soon
-{.is-info}
-
+* [Testpage](bitcoin-prime/documentation/test)
 # Primecoin Resources
 See the below links for resources regarding **PrimeCoin**
 
 ## Documentation / Technical 
-* [Building an XPM-NG-Core Testnet Node](documentation/building-primecoin-ng-core)
+* [Building an XPM-NG-Core Testnet Node](primecoin/documentation/building-primecoin-ng-core)
 ## World Records
-* [Current World Records](world-records/current-world-records)
+* [Current World Records](primecoin/world-records/current-world-records)
