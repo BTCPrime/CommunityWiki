@@ -95,7 +95,7 @@ start primecoind
 ./primecoind.bin --daemon
 ```
 
-Check primecoind is running;
+Give it a few minutes, and check primecoind is running;
 
 ```
 ./primecoind.bin getinfo
