@@ -6,8 +6,6 @@
 * [Homepage Primecommunity](https://www.primecommunity.org)
 # BitcoinPrime Resources
 See the below links for resources regarding **BitcoinPrime**
-
-* [Testpage](bitcoin-prime/documentation/test)
 # Primecoin Resources
 See the below links for resources regarding **PrimeCoin**
 
