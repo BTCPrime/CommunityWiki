@@ -1,4 +1,4 @@
-<!-- TITLE: Running Int Node -->
+<!-- TITLE: Running an Intermediary Node on Ubuntu 17.10 -->
 <!-- SUBTITLE: A quick summary of Running Int Node -->
 
 A node to act as an bridge between primecoin core and primecoin-ng-core. @eXtremal has built a binary for Ubuntu 17.10, so,
