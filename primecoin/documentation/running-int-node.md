@@ -3,7 +3,7 @@
 
 ![Title Image](/uploads/inter-2.jpg "Title Image")
 
-A node to act as an bridge between primecoin core and primecoin-ng-core. @eXtremal has built a binary for Ubuntu 17.10, so,
+A node to act as a bridge between primecoin core and primecoin-ng-core. @eXtremal has built a binary for Ubuntu 17.10, so,
 
 Here's how to set one up;
 
