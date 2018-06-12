@@ -62,7 +62,7 @@ sudo chmod u+x primecoind.bin
 Execute primecoind once;
 
 ```
-./primecoind
+./primecoind.bin
 ```
 
 You will get a message about setting an rpc user and password, so follow the instructions.
@@ -70,6 +70,8 @@ You will get a message about setting an rpc user and password, so follow the ins
 ```
 nano /home/primecoin/.primecoin/primecoin.conf
 ```
+
+Press ctrl - o to save the file, and ctrl - x to exit
 
 And paste your username and password into that file.
 
