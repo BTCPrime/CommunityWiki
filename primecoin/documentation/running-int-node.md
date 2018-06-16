@@ -43,7 +43,7 @@ Install pre-reqs;
 
 ```
 sudo apt-get update
-sudo apt-get install libboost-all-dev
+sudo apt-get install libboost1.62-all-dev
 sudo apt-get install libdb5.3++
 sudo apt-get install libminiupnpc10
 sudo apt-get install unzip
